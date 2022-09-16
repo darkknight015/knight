@@ -11,9 +11,9 @@ function App() {
         </p>
         <p>
           First Step is to Build, then commit.
-          Now Trying to Do Again
-          First make changes &amp; commit.
-          After That  $ npm run deploy
+          Now Trying to Do Again<br/>
+          First make changes &amp; commit.<br/>
+          After That  $ npm run deploy<br/>
           then $ git push origin master
         </p>
         <a

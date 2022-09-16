@@ -9,6 +9,9 @@ function App() {
         <p>
           I have learned to successfully deploy the Git
         </p>
+        <p>
+          First Step is to Build, then commit.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"

@@ -12,6 +12,9 @@ function App() {
         <p>
           First Step is to Build, then commit.
           Now Trying to Do Again
+          First make changes &amp; commit.
+          After That  $ npm run deploy
+          then $ git push origin master
         </p>
         <a
           className="App-link"
